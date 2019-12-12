@@ -1,0 +1,12 @@
+Gewonnen: kevin: 110
+Gewonnen: juriaan: 123
+Gewonnen: Sil: 179
+Gewonnen: JuriaanDeEchte: 167
+Gewonnen: kevinDeEchte: 138
+Winnaar: jur: 118
+Verloren: kev: -2
+Gewonnen: SILL: 187
+Gewonnen: sil: 108
+Winnaar: 2: 67
+Verloren: 1: 27
+Gewonnen: awo: 134
